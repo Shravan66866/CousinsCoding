@@ -1,7 +1,9 @@
 # What we will learn in these lessons:
 You're going to learn about hardware, and the basics of designing your own devices. Ever wondered how a GoPro actually works? What's inside that black box? Can you guess?
 
-![GoPro](https://cdn.mos.cms.futurecdn.net/3CiExD3rnLr2cfKWoqXdaL-970-80.jpg.webp)
+<p align="center">
+  <img alt="GoPro Camera" src="Assets/GoPro.JPG">
+</p>)
 
 # Why is this useful?
 With knowledge of how simple it is to design and build devices, you could one day start your own business to build and sell your ideas to the world. GoPro was started by a guy named Nick Woodman. While surfing in Australia, he noticed that surfers could not film their action shots effectively. This inspired him to start GoPro. Today he is worth many hundreds of millions of dollars.
@@ -21,7 +23,9 @@ For our lesson, we'll need to understand a bit more about how a computer works. 
 # What's the Rasberry Pi?
 It's a little computer. A really tiny baby computer, that has the building blocks of everything you would see on a laptop, iPad or MacBook. 
 
-![Rasberry Pi](https://projects-static.raspberrypi.org/projects/raspberry-pi-setting-up/0d6033edf45ad2d4185ed05d6cd9a01e2f803034/en/images/pi-plug-in.gif)
+<p align="center">
+  <img alt="Circuit Board" src="Assets/pi-plug-in.gif" />
+</p>
 
 Before we go any further, let's look at the main components of a real baby, because babies have many similar components to computers. 
 
