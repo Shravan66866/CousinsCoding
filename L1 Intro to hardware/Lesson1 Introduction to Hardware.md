@@ -59,7 +59,7 @@ Rasberry Pi can use many different *Operating Systems*, and the one we will use 
 ### **The Digestive System is like an *Operating System* for eating**
 
 <p align="center">
-  <img alt="SideView" src="Assets/DigestiveSystem.jpg" />
+  <img alt="SideView" src="Assets/DigestiveSystem.jpeg" />
 </p>
 
 When you eat food, many body components come together to make it all work. With these components you chew it, swallow it, digest it, and ultimately, poo out the waste. Although your mouth, your stomach, and other body parts each have their functions controlled by their *Firmware*, the *Digestive System* is a a kind of *Operating System* that brings everything together to perform the high level task of eating. 
