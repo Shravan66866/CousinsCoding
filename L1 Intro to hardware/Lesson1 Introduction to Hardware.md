@@ -57,7 +57,10 @@ Let's go one step up from *Firmware*. There's another important concept in compu
 Rasberry Pi can use many different *Operating Systems*, and the one we will use is called *Raspian*.
 
 ### **The Digestive System is like an *Operating System* for eating**
-![Digestive System](https://pixfeeds.com/images/biology/human-body-systems/1280-607651486-human-digestive-system-for-kids.jpg)
+
+<p align="center">
+  <img alt="SideView" src="Assets/DigestiveSystem.jpg" />
+</p>
 
 When you eat food, many body components come together to make it all work. With these components you chew it, swallow it, digest it, and ultimately, poo out the waste. Although your mouth, your stomach, and other body parts each have their functions controlled by their *Firmware*, the *Digestive System* is a a kind of *Operating System* that brings everything together to perform the high level task of eating. 
 
@@ -66,19 +69,25 @@ Teaching a baby to kick a ball and play the game of soccer, is like loading *Min
 
 # Take a closer look at your Rasberry Pi Hardware
 
-![Pi perspective](https://www.raspberrypi.org/documentation/usage/gpio/images/raspio-portsplus.jpg)
+<p align="center">
+  <img alt="SideView" src="Assets/PiSideView.jpg" />
+</p>
 
 See all those little black squares and rectangles? I am sure you have seen them on other devices if you've opened up a computer (which must be done with an adult). Ever wondered what the black boxes are?
 
 Like the digestive system, they each perform a function that together, make it possible for the Rasberry Pi to move electricity around it, and to interact with the outside world through cameras and sensors. 
 
-We will be connecting a Camera directly to the Rasberry Pi, which your parents have probably ordered already:
+We will be connecting a Camera directly to the Rasberry Pi. The Pi can take a number of accessories, called shields, which are other little computers that connect to it and give it extra hardware functionality:
 
-![Pi Camera](https://projects-static.raspberrypi.org/projects/getting-started-with-picamera/659a837aafb1ff69f222c16debae07be88459ab3/en/images/camera-module.png)
+<p align="center">
+  <img alt="SideView" src="Assets/pi-camera-attached.jpg" />
+</p>
 
 The camera connects into the Rasberry Pi Board as follows:
 
-![Pi Camera Connection](https://projects-static.raspberrypi.org/projects/getting-started-with-picamera/659a837aafb1ff69f222c16debae07be88459ab3/en/images/pi-camera-attached.jpg)
+<p align="center">
+  <img alt="SideView" src="Assets/camera-module.png" />
+</p>
 
 You can learn more about how to connect the camera using this link: https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
 
@@ -86,7 +95,7 @@ You can learn more about how to connect the camera using this link: https://proj
 1. It uses electricity. You can get elecrocuted. Handle with care
 2. It does not like static electricity. Be careful about touching it when you're wearing fuzzy clothes. Rather put in into a case.
 3. Like baby eyes but without eyelids, the camera is naked. Watch you don't damage the lens. You can build a case for your camera to protect it.
-4.  It can get hot. Like a baby that makes Poo in a Diaper, the Rasberry Pi takes electricity in and produces waste in the form of heat. That heat must go out of it, and fans and heat sinks perform this function.
+4. It can get hot. Like a baby that makes Poo in a Diaper, the Rasberry Pi takes electricity in and produces waste in the form of heat. That heat must go out of it, and fans and heat sinks perform this function.
 
 
 
