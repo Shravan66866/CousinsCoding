@@ -30,7 +30,7 @@ It's a little computer. A really tiny baby computer, that has the building block
 Before we go any further, let's look at the main components of a real baby, because babies have many similar components to computers. 
 
 <p align="center">
-  <img alt="Baby" src="Assets/baby.JPG">
+  <img alt="Baby" src="Assets/Baby.JPG">
 </p>)
 
 ## **Understanding Babies and Computers**
