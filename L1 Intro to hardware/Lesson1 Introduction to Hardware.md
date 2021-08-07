@@ -1,4 +1,4 @@
-# What we will learn in these lessons:
+  # What we will learn in these lessons:
 You're going to learn about hardware, and the basics of designing your own devices. Ever wondered how a GoPro actually works? What's inside that black box? Can you guess?
 
 <p align="center">
