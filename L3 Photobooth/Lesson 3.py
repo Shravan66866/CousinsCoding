@@ -15,7 +15,7 @@ mc.postToChat("Find the Photobooth")
 while True:
     x,y,z, = mc.player.getPos()
     sleep(2)
-    if (round(x,1) >= 21.0) and (round(y,1) == 14.0) and (round(z,1) == 2.4):
+    if (x>= 21.0) and (x<= 25.0) and (y>= 14.0) and (y<= 17.0) and (z == 2.4):
         mc.postToChat("You are in the photobooth!")
         sleep(1)
         mc.postToChat("Smile!")
